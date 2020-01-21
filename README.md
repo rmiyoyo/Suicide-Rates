@@ -1,0 +1,1 @@
+A data project using the suicide rates dataset from Kaggle and other datasets that may be introduced along the way.
