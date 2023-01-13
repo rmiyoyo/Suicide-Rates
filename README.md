@@ -34,7 +34,7 @@ TO-DO
 This project is licenced under MIT Licence
 
 ## Contributing
-Open a pull request with your changes if you would like to contribute. I try to respond ASAP.
+Open a pull request with your changes if you would like to contribute. I try to respond ASAP. You can also DM me on [Twitter](https://twitter.com/r_miyoyo).
 
 ## Acknowledgements
 Thank you to [MRINAL CHANDRA MISHRA](https://www.kaggle.com/mrinalchandramishra) through Kaggle for the dataset.
