@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Run the following command
+Execute the following command in the terminal.
 ```
 python3 suiciderates.py
 ```
